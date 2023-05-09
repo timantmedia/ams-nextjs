@@ -1,1 +1,1 @@
-# ams-nextjs
+# NextJS Application for Ant Media Server
